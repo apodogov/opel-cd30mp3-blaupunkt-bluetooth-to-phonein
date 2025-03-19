@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "CarPhoneInAudio_ATmega88PA", "CarPhoneInAudio_ATmega88PA\CarPhoneInAudio_ATmega88PA.cproj", "{86C4AD25-C7AB-4BFD-9761-9C625BA718D8}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "CarPhoneInAudio_ATmega328P", "CarPhoneInAudio_ATmega328P\CarPhoneInAudio_ATmega328P.cproj", "{D845FF6B-41E6-4344-B498-DCE787194027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+		Release_Min_Optimize|AVR = Release_Min_Optimize|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C4AD25-C7AB-4BFD-9761-9C625BA718D8}.Debug|AVR.ActiveCfg = Debug|AVR
+		{86C4AD25-C7AB-4BFD-9761-9C625BA718D8}.Debug|AVR.Build.0 = Debug|AVR
+		{86C4AD25-C7AB-4BFD-9761-9C625BA718D8}.Release|AVR.ActiveCfg = Release|AVR
+		{86C4AD25-C7AB-4BFD-9761-9C625BA718D8}.Release|AVR.Build.0 = Release|AVR
+		{86C4AD25-C7AB-4BFD-9761-9C625BA718D8}.Release_Min_Optimize|AVR.ActiveCfg = Release_Min_Optimize|AVR
+		{86C4AD25-C7AB-4BFD-9761-9C625BA718D8}.Release_Min_Optimize|AVR.Build.0 = Release_Min_Optimize|AVR
+		{D845FF6B-41E6-4344-B498-DCE787194027}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D845FF6B-41E6-4344-B498-DCE787194027}.Debug|AVR.Build.0 = Debug|AVR
+		{D845FF6B-41E6-4344-B498-DCE787194027}.Release|AVR.ActiveCfg = Release|AVR
+		{D845FF6B-41E6-4344-B498-DCE787194027}.Release|AVR.Build.0 = Release|AVR
+		{D845FF6B-41E6-4344-B498-DCE787194027}.Release_Min_Optimize|AVR.ActiveCfg = Release_Min_Optimize|AVR
+		{D845FF6B-41E6-4344-B498-DCE787194027}.Release_Min_Optimize|AVR.Build.0 = Release_Min_Optimize|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

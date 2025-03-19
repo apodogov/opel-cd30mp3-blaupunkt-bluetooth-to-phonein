@@ -58,6 +58,11 @@ dkms.conf
 **/Release/*.srec
 **/Release/*.mk
 **/Release/Makefile
+**/Release/*.lss
+**/Release_Min_Optimize/*.eep
+**/Release_Min_Optimize/*.srec
+**/Release_Min_Optimize/*.mk
+**/Release_Min_Optimize/Makefile
 **/Debug/*.eep
 **/Debug/*.srec
 **/Debug/*.mk
